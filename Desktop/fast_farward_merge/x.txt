@@ -1,1 +1,2 @@
-1st line in x.txt 
+1st line in x.txt  
+x.txt is modified in feature branch 
