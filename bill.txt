@@ -1,0 +1,1 @@
+Bill No. : range(0, 1001)Customer Name : pankajMobile No.    : 948954Daal : 40Wheat : 50
