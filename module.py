@@ -1,6 +1,7 @@
 def add():
 	a=float(input('Enter the first no. '))
 	b=float(input('Enter the second no. '))
+	print(f'Inside module...')
 	return a+b
 
 def sub():
