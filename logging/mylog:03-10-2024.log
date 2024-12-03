@@ -1,0 +1,19 @@
+03/12/2024 10:12:16 AM:INFO:A new request came
+03/12/2024 10:12:20 AM:INFO:A request processing completed
+03/12/2024 10:12:28 AM:INFO:A new request came
+03/12/2024 10:12:32 AM:INFO:A request processing completed
+03/12/2024 10:12:33 AM:INFO:A new request came
+03/12/2024 10:12:59 AM:INFO:A new request came
+03/12/2024 10:12:02 AM:ERROR:invalid literal for int() with base 10: 'e'
+Traceback (most recent call last):
+  File "/tmp/ipykernel_1117156/3944024409.py", line 11, in <module>
+    y = int(input('Enter the second number : '))
+ValueError: invalid literal for int() with base 10: 'e'
+03/12/2024 10:12:02 AM:INFO:A request processing completed
+03/12/2024 10:12:13 AM:INFO:A new request came
+03/12/2024 10:12:19 AM:ERROR:<class 'enumerate'>
+Traceback (most recent call last):
+  File "/tmp/ipykernel_1117156/3944024409.py", line 12, in <module>
+    print(f'The result is : {x/y}')
+ZeroDivisionError: division by zero
+03/12/2024 10:12:19 AM:INFO:A request processing completed
