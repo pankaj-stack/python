@@ -1,0 +1,5 @@
+05/12/2024 10:26:59 AM:CRITICAL:durga_logger:It is critical message
+05/12/2024 10:26:59 AM:ERROR:durga_logger:It is error message
+05/12/2024 10:26:59 AM:WARNING:durga_logger:It is warning message
+05/12/2024 10:26:59 AM:INFO:durga_logger:It is info message
+05/12/2024 10:26:59 AM:DEBUG:durga_logger:It is debug message

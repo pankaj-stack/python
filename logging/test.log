@@ -1,0 +1,5 @@
+05/12/2024 12:44:30 PM:CRITICAL:testlogger:critical message from test module
+05/12/2024 12:44:30 PM:ERROR:testlogger:error message from test module
+05/12/2024 12:44:30 PM:WARNING:testlogger:warning message by test module
+05/12/2024 12:44:30 PM:INFO:testlogger:info message by test module
+05/12/2024 12:44:30 PM:DEBUG:testlogger:debug message by test module

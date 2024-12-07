@@ -1,0 +1,11 @@
+07/12/2024 09:59:49 AM:CRITICAL:log_test logger:critical message from test module
+07/12/2024 09:59:49 AM:ERROR:log_test logger:error message from test module
+07/12/2024 09:59:49 AM:WARNING:log_test logger:warning message from test module
+07/12/2024 09:59:49 AM:INFO:log_test logger:info message from test module
+07/12/2024 09:59:49 AM:DEBUG:log_test logger:debug message from test module
+07/12/2024 09:59:57 AM:CRITICAL:log_student logger:critical message from student module
+07/12/2024 09:59:57 AM:ERROR:log_student logger:error message from student module
+07/12/2024 06:18:05 PM:CRITICAL:log_student logger:critical message from student module
+07/12/2024 06:18:05 PM:CRITICAL:log_student logger:critical message from student module
+07/12/2024 06:18:05 PM:ERROR:log_student logger:error message from student module
+07/12/2024 06:18:05 PM:ERROR:log_student logger:error message from student module
